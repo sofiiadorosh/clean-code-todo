@@ -1,0 +1,13 @@
+# Ignore locks and environment configs
+package-lock.json
+.env
+
+# Ignore package folders
+node_modules/
+
+# Ignore github configuration
+.github/
+
+# Prettier ignore file itself
+.prettierignore
+
